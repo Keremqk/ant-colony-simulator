@@ -750,6 +750,7 @@ class GameState:
         num_bees = len(self.bees)
         try:
             while True:
+                print(f"--- Turn {self.time} | Food: {self.food} | Ants: {len(self.ants)} | Bees: {len(self.active_bees)} ---")
                 self.beehive.strategy(self)         # Bees invade
                 self.strategy(self)                 # Ants deploy
                 for ant in self.ants:               # Ants take actions
