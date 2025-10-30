@@ -1,5 +1,5 @@
 # ant-colony-simulator
-Object-oriented Java simulation demonstrating modular backend design, inheritance hierarchies, and event-driven system logic.
+Object-oriented Python simulation demonstrating modular backend design, inheritance hierarchies, and event-driven system logic.
 
 This project simulates an ant colony defending against invading bees using an event-driven architecture. Built entirely in Java, it emphasizes inheritance, encapsulation, and modular design patterns common in modern backend systems.
 
