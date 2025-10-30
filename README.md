@@ -9,7 +9,7 @@ This project simulates an ant colony defending against invading bees using an ev
 - Abstract base classes for flexible behavior extension  
 - Clear separation between model, logic, and control layers
 
-  ###  Technical Highlights
+# Technical Highlights
 - Implemented complex inheritance hierarchies (Ant, Bee, Insect)
 - Designed clean APIs between simulation components
 - Practiced defensive programming and state management
@@ -18,3 +18,6 @@ This project simulates an ant colony defending against invading bees using an ev
 - Inheritance & Polymorphism
 - Event-Driven Simulation
 - System Design & Architecture
+
+# Live Demo
+Run the simulation directly on Replit: [Ant Colony Simulator on Replit](https://replit.com/@keremquezada/ant-colony-simulator)
